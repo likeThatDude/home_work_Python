@@ -68,4 +68,4 @@ while 2 ** count_three <= user_max_number:
     degree_digit.append(2 ** count_three)
     count_three += 1
 print(f'Выводим все степени в которые мы возводили: {degree}')
-print(f'Выводим все 2-ки в степени: {degree_digit}')
+print(f'Выводим все 2-ки в стеспени: {degree_digit}')
